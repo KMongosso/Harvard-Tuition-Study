@@ -1,1 +1,3 @@
-# Harvard-Tuition-Study
+Python Notebook
+
+Harvard tuition and fees study
